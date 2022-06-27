@@ -43,3 +43,4 @@
   - [`/lib`](reference/std/lib/Readme.md)
     - [`/fromMakesWith`](reference/std/lib/fromMakesWith.md)
     - [`/mkShell`](reference/std/lib/mkShell.md)
+    - [`/writeShellEntrypoint`](reference/std/lib/writeShellEntrypoint.md)
